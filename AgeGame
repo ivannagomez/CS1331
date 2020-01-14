@@ -1,3 +1,4 @@
+//I worked on the homework assignment alone, using only course materials.
 class AgeGame {
 	public static void main(String[] args) {
 		int birthYear = 1998;
