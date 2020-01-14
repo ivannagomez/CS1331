@@ -1,4 +1,4 @@
-public class AgeGame {
+class AgeGame {
 	public static void main(String[] args) {
 		int birthYear = 1998;
 		int inputNumber = 9;
