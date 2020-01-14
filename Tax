@@ -5,5 +5,5 @@ class Tax {
     double taxRate = .3;
     double income = salary - (salary*taxRate);
     System.out.println(name+" is making "+income+" dollars after tax!");
-	}
+  }
 }
