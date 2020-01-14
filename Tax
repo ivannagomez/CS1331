@@ -1,3 +1,4 @@
+//I worked on the homework assignment alone, using only course materials.
 class Tax {
   public static void main(String[] args) {
     String name = "Chad";
