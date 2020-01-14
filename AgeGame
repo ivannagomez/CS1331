@@ -1,7 +1,7 @@
 public class AgeGame {
 	public static void main(String[] args) {
-    int birthYear = 1998;
-    int inputNumber = 9;
+		int birthYear = 1998;
+		int inputNumber = 9;
     int ageCalculation = inputNumber;
     ageCalculation *= 2;
     ageCalculation += 5;
