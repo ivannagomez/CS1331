@@ -1,4 +1,4 @@
-//I worked on the homework assignment alone, using only course materials.
+
 /**
  * This class represents the main method Pond
  * @author Ivanna
