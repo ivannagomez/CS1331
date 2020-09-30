@@ -1,8 +1,7 @@
-//I worked on the homework assignment alone, using only course materials.
+
 import java.util.NoSuchElementException;
 
 /**
- * @author Regina Ivanna Gomez
  * @version 1.0
  * @param <T> type of data found in the node
  **/
