@@ -1,4 +1,4 @@
-//I worked on the homework assignment alone, using only course materials.
+
 abstract public class Pet {
     private String name;
     private double health;
